@@ -3,13 +3,13 @@
 This API uses [nestJS](https://docs.nestjs.com/) framework version 7.1.0 and is integrated with mongoDB database.
 
 ### Run app locally
-1. Clone the repository 
+1. Clone a repository
 ```
-git clone 
+git clone https://github.com/TakiMed/restaurant-orders-project.git
 ```
 2. Switch to the repo folder
 ```
-cd 
+cd restaurant-orders-project
 ```
 3. Install dependencies
 ```
